@@ -1,0 +1,6 @@
+c:\users\cory.wynn\documents\visual studio 2015\Projects\EmailerApp\EmailerApp\bin\Debug\EmailerApp.exe.config
+c:\users\cory.wynn\documents\visual studio 2015\Projects\EmailerApp\EmailerApp\bin\Debug\EmailerApp.exe
+c:\users\cory.wynn\documents\visual studio 2015\Projects\EmailerApp\EmailerApp\bin\Debug\EmailerApp.pdb
+c:\users\cory.wynn\documents\visual studio 2015\Projects\EmailerApp\EmailerApp\obj\Debug\EmailerApp.csprojResolveAssemblyReference.cache
+c:\users\cory.wynn\documents\visual studio 2015\Projects\EmailerApp\EmailerApp\obj\Debug\EmailerApp.exe
+c:\users\cory.wynn\documents\visual studio 2015\Projects\EmailerApp\EmailerApp\obj\Debug\EmailerApp.pdb
